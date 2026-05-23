@@ -1,5 +1,5 @@
-Hi, i am Monjur Morshed Master student of Economics  at Heinrich Hein University Düsseldorf, Germany.
-this is my master thesis project. 
+Hi, I am Monjur Morshed Master student of Economics  at Heinrich Hein University Düsseldorf, Germany.
+
 **Artificial Intelligence Exposure and Labour Shortages in Germany: Evidence from Occupation-Level Panel Data**
 
 The project studies whether occupations with higher exposure to AI show different labour market outcomes in Germany, using KldB 3-digit occupation-level panel data for 2015–2025.
