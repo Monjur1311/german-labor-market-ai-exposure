@@ -1,7 +1,3 @@
-# Artificial Intelligence Exposure and Labour Shortages in Germany
-
-This repository contains the empirical analysis for the thesis:
-
 **Artificial Intelligence Exposure and Labour Shortages in Germany: Evidence from Occupation-Level Panel Data**
 
 The project studies whether occupations with higher exposure to AI show different labour market outcomes in Germany, using KldB 3-digit occupation-level panel data for 2015–2025.
