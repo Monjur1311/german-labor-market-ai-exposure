@@ -1,0 +1,16 @@
+# Data
+data/raw/*
+data/processed/*
+
+# Outputs
+outputs/figures/*
+outputs/tables/*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
