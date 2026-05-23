@@ -1,2 +1,2 @@
 # german-labor-market-ai-exposure
-Econometric analysis of structural shifts in the German labor market following the generative AI shock using Python and pyfixest.
+Master's thesis:Artificial Intelligence Exposure and Labour Shortages in Germany: Evidence from Occupation Level Panel Data.
